@@ -1,5 +1,5 @@
 # ElectionDeliberationAssistant
-This program takes a text snippet as input and returns arguments relavant to Trump and Biden in relation to the text snippet using GloVe and argBERT. 
+This program takes a text snippet as input and returns sentences from Wikipedia relavant to Trump and Biden in relation to the text snippet using GloVe and argBERT. 
 
 # Downloads
 ```
