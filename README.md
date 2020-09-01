@@ -25,7 +25,7 @@ https://drive.google.com/drive/folders/1wz7BB7FcaS1V6mTBZM8XPpym-t89Ycx7?usp=sha
 
 **SemanticSearcher model**
 
-We use SemanticSearcher to return the top 200 closest arguments in semantic space to the query
+Return the top 200 closest arguments in semantic space to the query
 
 ```
 similarity_model = ElectionAssistant.SemanticSearcher('glove.6B.300d.txt')
